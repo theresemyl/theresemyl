@@ -11,7 +11,7 @@ I'm Therese, a newbie developer and committed lifelong learner. While I'm still 
 - A lot more about databases! 
 - To deploy my first project
 
-## Current tech stack:
-Front-end: React, JavaScript, HTML5, CSS, SASS, BEM
-Back-end: Node.js, Express, MySQL, Knex, JWT, OAuth, Passport
-Other: APIs, Web APIs, GitHub collaboration, Agile Development
+### Current tech stack:
+- Front-end: React, JavaScript, HTML5, CSS, SASS, BEM
+- Back-end: Node.js, Express, MySQL, Knex, JWT, OAuth, Passport
+- Other: APIs, Web APIs, GitHub collaboration, Agile Development
